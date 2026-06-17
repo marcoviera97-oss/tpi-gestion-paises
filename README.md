@@ -1,5 +1,5 @@
 
-# Sistema de Gestión de Datos de Países - TPI Programación 1 (UTN)
+# Sistema de Gestión de Datos de Países - TPI Programación 1 (UTN) 
 
 ## 📝 Descripción del Proyecto
 Este proyecto es una aplicación de consola desarrollada en Python 3.x para la gestión, filtrado, ordenamiento y análisis de un dataset de países. El sistema permite interactuar dinámicamente con la información almacenada en un archivo de texto plano (CSV), garantizando la persistencia de los datos entre ejecuciones y aplicando de forma estricta los conceptos de modularización, estructuras repetitivas, condicionales, listas y diccionarios.
