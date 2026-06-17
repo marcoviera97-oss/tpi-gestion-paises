@@ -10,7 +10,7 @@ Este proyecto es una aplicación de consola desarrollada en Python 3.x para la g
 1. Asegúrese de tener instalado **Python 3.x** en su sistema.
 2. Descargue o clone este repositorio en su máquina local:
    ```bash
-   git clone https://github.com
+   git clone [https://github.com](https://github.com/marcoviera97-oss/tpi-gestion-paises)
    ```
 3. Navegue a la carpeta del proyecto y ejecute el programa principal:
    ```bash
